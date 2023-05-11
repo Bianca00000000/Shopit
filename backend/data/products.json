@@ -1,0 +1,263 @@
+[{
+    "_id": {
+      "$oid": "643172f6bc5a78afa29af240"
+    },
+    "name": "CHARMOUNT Full Motion TV Wall Mount Swivel",
+    "price": 29.99,
+    "description": "CHARMOUNT TV MOUNT UNIVERSAL DESIGN - Has your TV been received? Tilted TV wall mount is for 26 - 55 TVs weight up to 88lbs 40 kg. Our tilt TV mount has a compatible faceplate that fits VESA 75X75mm (3x3). CHARMOUNT TV MOUNT UNIVERSAL DESIGN - Has your TV been received? Tilted TV wall mount is for 26 - 55 TVs weight up to 88lbs 40 kg. Our tilt TV mount has a compatible faceplate that fits VESA 75X75mm (3x3) CHARMOUNT TV MOUNT UNIVERSAL DESIGN - Has your TV been received? Tilted TV wall mount is for 26 - 55 TVs weight up to 88lbs 40 kg. Our tilt TV mount has a compatible faceplate that fits VESA 75X75mm (3x3).",
+    "ratings": 5,
+    "images": [
+      {
+        "public_id": "products/51-2JPUG4sL._AC_SL1188__zmifhd.jpg",
+        "url": "https://res.cloudinary.com/dbzsicrq9/image/upload/v1681444241/products/51-2JPUG4sL._AC_SL1188__zmifhd.jpg",
+        "_id": {
+          "$oid": "643172f6bc5a78afa29af241"
+        }
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Amazon",
+    "stock": 1,
+    "numOfReviews": 1,
+    "reviews": [
+      {
+        "name": "Bianca Daniela",
+        "rating": 5,
+        "comment": "Quality is good.",
+        "_id": {
+          "$oid": "6435b194ada6323cb5058147"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2023-04-08T13:58:14.156Z"
+    },
+    "__v": 1
+  },{
+    "_id": {
+      "$oid": "643172f6bc5a78afa29af242"
+    },
+    "name": "HyperX Cloud II - Gaming Headset, 7.1 Surround Sound",
+    "price": 83,
+    "description": "15-25kKhz Frequency Response.Headphones fit type:Over-Ear.Note : If the size of the earbud tips does not match the size of your ear canals or the headset is not worn properly in your ears, you may not obtain the correct sound qualities or call performance. Change the earbud tips to ones that fit more snugly in your ear\nDesigned for comfort: Exceptionally comfortable memory foam ear cushions and padded leatherette headband help keep you focused on gaming\nSupreme audio quality: Large 53 millimeter drivers provide high-quality audio. Hear in-game details better and get the in-game advantage on your opponents\n7.1 virtual surround sound: Truly immerse yourself in your games with hardware-driven virtual 7.1 surround sound for precisely located audio",
+    "ratings": {
+      "$numberDouble": "Infinity"
+    },
+    "images": [
+      {
+        "public_id": "products/71MJ3OaVqBL._AC_SL1500__cwxk18.jpg",
+        "url": "https://res.cloudinary.com/dbzsicrq9/image/upload/v1681444241/products/71MJ3OaVqBL._AC_SL1500__cwxk18.jpg",
+        "_id": {
+          "$oid": "643172f6bc5a78afa29af243"
+        }
+      }
+    ],
+    "category": "Headphones",
+    "seller": "Amazon",
+    "stock": 11,
+    "numOfReviews": 0,
+    "reviews": [],
+    "createdAt": {
+      "$date": "2023-04-08T13:58:14.156Z"
+    },
+    "__v": 1
+  },{
+    "_id": {
+      "$oid": "643172f6bc5a78afa29af244"
+    },
+    "name": "Apple AirPods with Charging Case (Wired)",
+    "price": 126.99,
+    "description": "AirPods with Charging Case: More than 24 hours listening time, up to 18 hours talk time; AirPods (single charge): Up to 5 hours listening time, up to 3 hours talk time or 15 minutes in the case equals up to 3 hours listening time or up to 2 hours talk time.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "public_id": "products/417HgaYYxLL._AC_SY355__loprjk.jpg",
+        "url": "https://res.cloudinary.com/dbzsicrq9/image/upload/v1681444240/products/417HgaYYxLL._AC_SY355__loprjk.jpg",
+        "_id": {
+          "$oid": "643172f6bc5a78afa29af245"
+        }
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Amazon",
+    "stock": 122,
+    "numOfReviews": 2671,
+    "reviews": [],
+    "createdAt": {
+      "$date": "2023-04-08T13:58:14.156Z"
+    },
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "643172f6bc5a78afa29af246"
+    },
+    "name": "Cable Boom Microphone - Volume Control for Playstation PS4 or Xbox",
+    "price": 27.99,
+    "description": "DESIGN INFO - 3.5mm male to 2.5mm male audio cable adapter with Upgraded Flexible, Detachable Boom Mic which also enables rotary Volume Control and Mute Switch. SteelFlex Arm for perfect microphone positioning. INPUT COMPATIBILITY - Devices supporting 3.5mm audio output such as gaming PS4 / Xbox One controller, PC, Laptop, iPhone and Android Phone.",
+    "ratings": 4.1,
+    "images": [
+      {
+        "public_id": "products/71352XmOQWL._SX342__hdr6qb.jpg",
+        "url": "https://res.cloudinary.com/dbzsicrq9/image/upload/v1681444240/products/71352XmOQWL._SX342__hdr6qb.jpg",
+        "_id": {
+          "$oid": "643172f6bc5a78afa29af247"
+        }
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Amazon",
+    "stock": 1123,
+    "numOfReviews": 6,
+    "reviews": [],
+    "createdAt": {
+      "$date": "2023-04-08T13:58:14.157Z"
+    },
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "643172f6bc5a78afa29af248"
+    },
+    "name": "Nikon D3500 W/ AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR Black",
+    "price": 496.95,
+    "description": "You don't need to be a photographer to know a great photo when you see one. And you don't need to be a photographer to take a great photo—you just need the D3500. It's as easy to use as a point-and-shoot, but it takes beautiful DSLR photos and videos that get noticed. It feels outstanding in your hands, sturdy and balanced with controls where you want them. It's compact, durable and versatile, ideal for travel. And it works seamlessly with compatible smartphones, making it easier than ever to share your great photos. Even if you've never picked up a DSLR camera, you can take beautiful pictures with D3500.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/71TSinb4usL._AC_SX355__cae8lx.jpg",
+        "url": "https://res.cloudinary.com/dbzsicrq9/image/upload/v1681444240/products/71TSinb4usL._AC_SX355__cae8lx.jpg",
+        "_id": {
+          "$oid": "643172f6bc5a78afa29af249"
+        }
+      }
+    ],
+    "category": "Cameras",
+    "seller": "Amazon",
+    "stock": 131,
+    "numOfReviews": 222,
+    "reviews": [],
+    "createdAt": {
+      "$date": "2023-04-08T13:58:14.157Z"
+    },
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "643172f6bc5a78afa29af24a"
+    },
+    "name": "Apple MacBook Air (13-inch, 8GB RAM, 256GB SSD Storage) - Space Gray",
+    "price": 949.99,
+    "description": "Stunning 13.3-inch Retina display with True Tone technology, Backlit Magic Keyboard and Touch ID, Tenth-generation, Intel Core i3 processor, Intel Iris Plus Graphics, Fast SSD storage, 8GB of memory, Stereo speakers with wider stereo sound",
+    "ratings": 4.9,
+    "images": [
+      {
+        "public_id": "products/71PWU942AIL._AC_SX522__ek77ca.jpg",
+        "url": "https://res.cloudinary.com/dbzsicrq9/image/upload/v1681444240/products/71PWU942AIL._AC_SX522__ek77ca.jpg",
+        "_id": {
+          "$oid": "643172f6bc5a78afa29af24b"
+        }
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Amazon",
+    "stock": 0,
+    "numOfReviews": 56,
+    "reviews": [],
+    "createdAt": {
+      "$date": "2023-04-08T13:58:14.157Z"
+    },
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "643172f6bc5a78afa29af24c"
+    },
+    "name": "Kauffman Orchards Homegrown McIntosh Apples",
+    "price": 2.75,
+    "description": "McIntosh is a pretty red/green apple with white flesh Homegrown in Kauffman's orchard in healthy Lancaster County soil McIntosh apples are famous for snacking, pies, salads, and applesauce Protected with soft, high-density foam for safe shipping to your door Not for sale to California, Oregon, or Washington due to state laws governing fresh produce",
+    "ratings": 5,
+    "images": [
+      {
+        "public_id": "products/full__11273_rv01r3.jpg",
+        "url": "https://res.cloudinary.com/dbzsicrq9/image/upload/v1681444240/products/full__11273_rv01r3.jpg",
+        "_id": {
+          "$oid": "643172f6bc5a78afa29af24d"
+        }
+      },
+      {
+        "public_id": "products/IMG_3831_tcm9tm.jpg",
+        "url": "https://res.cloudinary.com/dbzsicrq9/image/upload/v1681444241/products/IMG_3831_tcm9tm.jpg",
+        "_id": {
+          "$oid": "643172f6bc5a78afa29af24e"
+        }
+      },
+      {
+        "public_id": "products/full__22926_aewbtp.jpg",
+        "url": "https://res.cloudinary.com/dbzsicrq9/image/upload/v1681444240/products/full__22926_aewbtp.jpg",
+        "_id": {
+          "$oid": "643172f6bc5a78afa29af24f"
+        }
+      }
+    ],
+    "category": "Food",
+    "seller": "Kauffman's Fruit Farm & Market",
+    "stock": 498,
+    "numOfReviews": 1,
+    "reviews": [],
+    "createdAt": {
+      "$date": "2023-04-08T13:58:14.157Z"
+    },
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "64317e6e54540380a6aaa991"
+    },
+    "name": "SanDisk Ultra 128GB SDXC UHS-I Memory Card up to 80MB/s",
+    "price": 45.89,
+    "description": "Ultra-fast cards (2) to take better pictures and Full HD videos (1) with your compact to mid-range point-and-shoot cameras and camcorders. With SanDisk Ultra SDXC UHS-I cards you’ll benefit from faster downloads, high capacity, and better performance to capture and store 128GB (5) of high quality pictures and Full HD video (1). Take advantage of ultra-fast read speeds of up to 80MB/s (3) to save time moving photos and videos from the card to your computer. From a leader in flash memory storage, SanDisk Ultra SDXC UHS-I cards are compatible with SDHC and SDXC digital devices, and come with a 10-year limited warranty (6).",
+    "ratings": 4.5,
+    "images": [
+      {
+        "public_id": "products/71jsEFJtRRL._AC_SX450__iiyo5n.jpg",
+        "url": "https://res.cloudinary.com/dbzsicrq9/image/upload/v1681444240/products/71jsEFJtRRL._AC_SX450__iiyo5n.jpg",
+        "_id": {
+          "$oid": "64317e6e54540380a6aaa992"
+        }
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Ebay",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": [],
+    "createdAt": {
+      "$date": "2023-04-08T14:47:10.169Z"
+    },
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "64346364833b68ced6ce4cb1"
+    },
+    "name": "Macbook pro",
+    "price": 45.89,
+    "description": "Ultra-fast cards (2) to take better pictures and Full HD videos (1) with your compact to mid-range point-and-shoot cameras and camcorders. With SanDisk Ultra SDXC UHS-I cards you’ll benefit from faster downloads, high capacity, and better performance to capture and store 128GB (5) of high quality pictures and Full HD video (1). Take advantage of ultra-fast read speeds of up to 80MB/s (3) to save time moving photos and videos from the card to your computer. From a leader in flash memory storage, SanDisk Ultra SDXC UHS-I cards are compatible with SDHC and SDXC digital devices, and come with a 10-year limited warranty (6).",
+    "ratings": 4.5,
+    "images": [
+      {
+        "public_id": "products/products/MacBook-Pro-16-in-Space-Gray_1_ctmfus.webp",
+        "url": "https://res.cloudinary.com/dbzsicrq9/image/upload/v1681456002/products/MacBook-Pro-16-in-Space-Gray_1_ctmfus.webp",
+        "_id": {
+          "$oid": "64346364833b68ced6ce4cb2"
+        }
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Ebay",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": [],
+    "user": {
+      "$oid": "6434430fd50dc81a8c16e99b"
+    },
+    "createdAt": {
+      "$date": "2023-04-10T19:28:36.668Z"
+    },
+    "__v": 0
+  }]
